@@ -14,5 +14,5 @@ Model found in upper left corner. Organized by date.
 
 ####3/15/2016
 
-![](Plots/SVM3_15.png  | width=230)
+![](Plots/SVM3_15.png)
 
