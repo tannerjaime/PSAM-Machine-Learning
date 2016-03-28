@@ -14,5 +14,5 @@ Model found in upper left corner. Organized by date.
 
 ####3/15/2016
 
-![](Plots/SVM3_15.png)![](Plots/GLM3_15.png)![](Plots/NB3_15.png)![](Plots/Perceptron3_15.png)
+![](Plots/SVM3_15.png)![](Plots/LR3_15.png)![](Plots/NB3_15.png)![](Plots/Perceptron3_15.png)
 
