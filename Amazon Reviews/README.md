@@ -25,6 +25,15 @@ Changed from hashing vectorizor to TD-IDF
 
 
 ######4/21/2016
+00
 
 ![](Plots/Assignment1Results4:21.png)
 
+
+######4/22/2016
+01
+
+![](Plots/assignemnt1Results4:22.png)
+
+
+######4/23/2016
