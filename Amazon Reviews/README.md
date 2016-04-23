@@ -17,8 +17,14 @@ Features relating to punctuation and counts in the text and usernames
 
 ![](Plots/Assgnmnt1Results3:01.png)
 
+
 ######3/29/2016
 Changed from hashing vectorizor to TD-IDF
 
 ![](Plots/Assignment1Results3:29.png)
+
+
+######4/21/2016
+
+![](Plots/Assignment1Results4:21.png)
 
