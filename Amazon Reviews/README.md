@@ -12,7 +12,7 @@ Train a model to best predict helpful, a boolean indicator that a review was dee
 ##Performance 
 Model found in upper left corner. Organized by date. 
 
-####3/15/2016
+####3/29/2016
 
-![](Plots/SVM3_15.png)![](Plots/LR3_15.png)![](Plots/NB3_15.png)![](Plots/Perceptron3_15.png)
+![](Plots/Assignment1Results3:29.png)
 
