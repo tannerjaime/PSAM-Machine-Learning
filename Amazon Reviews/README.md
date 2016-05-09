@@ -9,7 +9,11 @@ Train a model to best predict helpful, a boolean indicator that a review was dee
 (data.HelpfulnessDenominator > 3) & (data.helpScore >= 0.9)  
 
 --------------
-####Performance 
+####Final Model Decision
+In my final model for this assignment, I am using the Perceptron in order to classify true postives, as well as Naive Bayes in order to determine true negatives. 
+
+
+####Performance Over Time
 Model found in upper left corner. Organized by date. 
 
 ######3/01/2016
