@@ -4,7 +4,8 @@
 ####Data 
 Amazon Fine Food Reviews The Amazon Fine Food Reviews dataset consists of 455,000 food reviews Amazon users left up to October 2012. 
 
-
+####Final Cluster Size
+70
 --------------
 ####Performance 
 Model found in upper left corner. Organized by date. 
