@@ -29,15 +29,14 @@ Changed from hashing vectorizor to TD-IDF
 
 
 ######4/21/2016
-00
+Added some features related to the review Summary 
 
 ![](Plots/Assignment1Results4:21.png)
 
 
 ######4/22/2016
-01
+Added features related to capital letter counts in both the Summary and the Text
 
 ![](Plots/assignemnt1Results4:22.png)
 
 
-######4/23/2016
